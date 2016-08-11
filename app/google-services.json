@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "298618992295",
+    "firebase_url": "https://tsca-c4092.firebaseio.com",
+    "project_id": "tsca-c4092",
+    "storage_bucket": "tsca-c4092.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298618992295:android:9eba6f9d4f10bfe3",
+        "android_client_info": {
+          "package_name": "badebaba.tsc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298618992295-4knks0pkui1btdf42t5ikds6vf64c0q5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "badebaba.tsc",
+            "certificate_hash": "4374660E6E4E45A444C9E276F5A3E1938E87DEB5"
+          }
+        },
+        {
+          "client_id": "298618992295-bshsi5osp69ms4k0of1vgbjnfgt7d1o7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO5cGsHRlE9xLW9YQhznvfLAP9Ua5_4qk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

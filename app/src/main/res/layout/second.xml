@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/q1"
+        android:layout_width="87dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/style"
+        android:paddingBottom="20dp"
+        android:paddingLeft="10dp"
+        android:paddingTop="20dp"
+        android:text="TextView" />
+
+    <EditText
+        android:id="@+id/a1"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:background="@drawable/style"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Ans" />
+
+    <TextView
+        android:id="@+id/q2"
+        android:layout_width="87dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/style"
+        android:paddingBottom="20dp"
+        android:paddingLeft="10dp"
+        android:paddingTop="20dp"
+        android:text="TextView" />
+
+    <EditText
+        android:id="@+id/a2"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:background="@drawable/style"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Ans" />
+
+</LinearLayout>
